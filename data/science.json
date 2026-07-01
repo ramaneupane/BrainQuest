@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "category": "Science",
+    "difficulty": "Easy",
+    "question": "What planet is known as the Red Planet?",
+    "choices": ["Earth", "Mars", "Venus", "Jupiter"],
+    "correctAnswer": "Mars",
+    "explanation": "Mars appears red because its surface contains iron oxide, or rust.",
+    "tags": ["space", "planets"]
+  },
+  {
+    "id": 2,
+    "category": "Science",
+    "difficulty": "Easy",
+    "question": "What gas do plants need for photosynthesis?",
+    "choices": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+    "correctAnswer": "Carbon dioxide",
+    "explanation": "Plants use carbon dioxide from the air and sunlight to make food.",
+    "tags": ["plants", "biology"]
+  },
+  {
+    "id": 3,
+    "category": "Science",
+    "difficulty": "Medium",
+    "question": "What part of the cell contains genetic material?",
+    "choices": ["Ribosome", "Nucleus", "Cell membrane", "Cytoplasm"],
+    "correctAnswer": "Nucleus",
+    "explanation": "The nucleus stores DNA and directs many cell activities.",
+    "tags": ["biology", "cells"]
+  },
+  {
+    "id": 4,
+    "category": "Science",
+    "difficulty": "Easy",
+    "question": "What is H2O commonly called?",
+    "choices": ["Oxygen", "Salt", "Water", "Sugar"],
+    "correctAnswer": "Water",
+    "explanation": "H2O is the chemical formula for water.",
+    "tags": ["chemistry", "water"]
+  },
+  {
+    "id": 5,
+    "category": "Science",
+    "difficulty": "Medium",
+    "question": "Which planet is the largest in our solar system?",
+    "choices": ["Saturn", "Neptune", "Jupiter", "Mars"],
+    "correctAnswer": "Jupiter",
+    "explanation": "Jupiter is the largest planet and is a gas giant.",
+    "tags": ["space", "planets"]
+  }
+]

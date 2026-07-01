@@ -1,0 +1,52 @@
+[
+  {
+    "id": 201,
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "What is the capital of France?",
+    "choices": ["Berlin", "Rome", "Paris", "Madrid"],
+    "correctAnswer": "Paris",
+    "explanation": "Paris is the capital city of France.",
+    "tags": ["capitals", "europe"]
+  },
+  {
+    "id": 202,
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "Which is the largest ocean on Earth?",
+    "choices": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+    "correctAnswer": "Pacific Ocean",
+    "explanation": "The Pacific Ocean is the largest and deepest ocean on Earth.",
+    "tags": ["oceans", "earth"]
+  },
+  {
+    "id": 203,
+    "category": "Geography",
+    "difficulty": "Medium",
+    "question": "What is the longest river in the world?",
+    "choices": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+    "correctAnswer": "Nile",
+    "explanation": "The Nile is often cited as the longest river in the world.",
+    "tags": ["rivers", "world"]
+  },
+  {
+    "id": 204,
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "Which continent is known as the 'Frozen Continent'?",
+    "choices": ["Asia", "Antarctica", "Africa", "Australia"],
+    "correctAnswer": "Antarctica",
+    "explanation": "Antarctica is covered by ice and is called the Frozen Continent.",
+    "tags": ["continents", "ice"]
+  },
+  {
+    "id": 205,
+    "category": "Geography",
+    "difficulty": "Medium",
+    "question": "What is the capital of Japan?",
+    "choices": ["Seoul", "Tokyo", "Bangkok", "Osaka"],
+    "correctAnswer": "Tokyo",
+    "explanation": "Tokyo is the capital and largest city of Japan.",
+    "tags": ["capitals", "asia"]
+  }
+]

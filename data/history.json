@@ -1,0 +1,52 @@
+[
+  {
+    "id": 301,
+    "category": "History",
+    "difficulty": "Easy",
+    "question": "Who was the first President of the United States?",
+    "choices": ["Thomas Jefferson", "George Washington", "Abraham Lincoln", "John Adams"],
+    "correctAnswer": "George Washington",
+    "explanation": "George Washington became the first president in 1789.",
+    "tags": ["us history", "presidents"]
+  },
+  {
+    "id": 302,
+    "category": "History",
+    "difficulty": "Easy",
+    "question": "In which year did the Titanic sink?",
+    "choices": ["1905", "1912", "1918", "1923"],
+    "correctAnswer": "1912",
+    "explanation": "The Titanic sank in 1912 after hitting an iceberg.",
+    "tags": ["ships", "20th century"]
+  },
+  {
+    "id": 303,
+    "category": "History",
+    "difficulty": "Medium",
+    "question": "Who discovered America in 1492?",
+    "choices": ["Christopher Columbus", "Leif Erikson", "Marco Polo", "Vasco da Gama"],
+    "correctAnswer": "Christopher Columbus",
+    "explanation": "Christopher Columbus is widely credited with reaching the Americas in 1492.",
+    "tags": ["exploration", "americas"]
+  },
+  {
+    "id": 304,
+    "category": "History",
+    "difficulty": "Medium",
+    "question": "Which ancient civilization built Machu Picchu?",
+    "choices": ["Egyptians", "Romans", "Inca", "Greeks"],
+    "correctAnswer": "Inca",
+    "explanation": "The Inca built Machu Picchu in the Andes Mountains.",
+    "tags": ["ancient civilizations", "south america"]
+  },
+  {
+    "id": 305,
+    "category": "History",
+    "difficulty": "Hard",
+    "question": "Which war was fought between the North and South regions of the United States?",
+    "choices": ["World War I", "The Civil War", "The Korean War", "The Vietnam War"],
+    "correctAnswer": "The Civil War",
+    "explanation": "The American Civil War was fought between the Union and the Confederacy.",
+    "tags": ["us history", "war"]
+  }
+]

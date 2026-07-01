@@ -1,0 +1,52 @@
+[
+  {
+    "id": 501,
+    "category": "Entertainment",
+    "difficulty": "Easy",
+    "question": "Which movie features a young wizard named Harry?",
+    "choices": ["The Hobbit", "Harry Potter", "The Matrix", "Frozen"],
+    "correctAnswer": "Harry Potter",
+    "explanation": "The Harry Potter series follows the adventures of the wizard Harry Potter.",
+    "tags": ["movies", "magic"]
+  },
+  {
+    "id": 502,
+    "category": "Entertainment",
+    "difficulty": "Easy",
+    "question": "Which singer is known as the 'Queen of Pop'?",
+    "choices": ["Beyoncé", "Madonna", "Taylor Swift", "Adele"],
+    "correctAnswer": "Madonna",
+    "explanation": "Madonna is widely known as the Queen of Pop.",
+    "tags": ["music", "pop"]
+  },
+  {
+    "id": 503,
+    "category": "Entertainment",
+    "difficulty": "Medium",
+    "question": "What does TV stand for?",
+    "choices": ["Television", "Travel Video", "Technical View", "Telegraph Voice"],
+    "correctAnswer": "Television",
+    "explanation": "TV is a common abbreviation for television.",
+    "tags": ["technology", "media"]
+  },
+  {
+    "id": 504,
+    "category": "Entertainment",
+    "difficulty": "Medium",
+    "question": "Which instrument has 88 keys?",
+    "choices": ["Guitar", "Piano", "Violin", "Drums"],
+    "correctAnswer": "Piano",
+    "explanation": "A standard piano has 88 keys.",
+    "tags": ["music", "instruments"]
+  },
+  {
+    "id": 505,
+    "category": "Entertainment",
+    "difficulty": "Hard",
+    "question": "Which animated film features a snowman named Olaf?",
+    "choices": ["Moana", "Frozen", "Tangled", "Brave"],
+    "correctAnswer": "Frozen",
+    "explanation": "Olaf is a beloved snowman from Frozen.",
+    "tags": ["movies", "animation"]
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 101,
+    "category": "Mathematics",
+    "difficulty": "Easy",
+    "question": "What is 7 × 8?",
+    "choices": ["54", "56", "58", "60"],
+    "correctAnswer": "56",
+    "explanation": "Seven groups of eight make fifty-six.",
+    "tags": ["multiplication", "times tables"]
+  },
+  {
+    "id": 102,
+    "category": "Mathematics",
+    "difficulty": "Easy",
+    "question": "What is 15 divided by 3?",
+    "choices": ["3", "4", "5", "6"],
+    "correctAnswer": "5",
+    "explanation": "Fifteen split into three equal groups gives five in each group.",
+    "tags": ["division", "numbers"]
+  },
+  {
+    "id": 103,
+    "category": "Mathematics",
+    "difficulty": "Medium",
+    "question": "What is the value of 3²?",
+    "choices": ["3", "6", "9", "12"],
+    "correctAnswer": "9",
+    "explanation": "Three squared means 3 × 3, which equals 9.",
+    "tags": ["exponents", "powers"]
+  },
+  {
+    "id": 104,
+    "category": "Mathematics",
+    "difficulty": "Medium",
+    "question": "What is 25% of 80?",
+    "choices": ["10", "15", "20", "25"],
+    "correctAnswer": "20",
+    "explanation": "Twenty-five percent is one quarter, and one quarter of 80 is 20.",
+    "tags": ["percentages", "fractions"]
+  },
+  {
+    "id": 105,
+    "category": "Mathematics",
+    "difficulty": "Hard",
+    "question": "What is the next number in the sequence: 2, 4, 8, 16, ?",
+    "choices": ["20", "24", "32", "48"],
+    "correctAnswer": "32",
+    "explanation": "Each number doubles, so 16 doubled is 32.",
+    "tags": ["patterns", "sequences"]
+  }
+]

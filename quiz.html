@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>BrainQuest Quiz</title>
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <main class="page quiz-page">
+      <header class="topbar">
+        <a href="index.html" class="brand">BrainQuest</a>
+        <div class="topbar-actions">
+          <button id="themeToggle" class="ghost-btn">🌙</button>
+        </div>
+      </header>
+
+      <section class="quiz-shell">
+        <div class="quiz-card">
+          <div class="quiz-meta">
+            <span id="progressText">Question 1 of 20</span>
+            <span id="timerText">Timer: Off</span>
+          </div>
+          <div class="progress-bar"><div id="progressFill"></div></div>
+          <h2 id="question">Loading...</h2>
+          <div id="choices" class="choices"></div>
+          <div class="quiz-actions">
+            <button id="skipBtn" class="ghost-btn">Skip</button>
+            <button id="nextBtn">Next</button>
+          </div>
+          <p id="feedback" class="feedback"></p>
+        </div>
+      </section>
+    </main>
+
+    <script src="js/storage.js"></script>
+    <script src="js/utils.js"></script>
+    <script src="js/quiz.js"></script>
+  </body>
+</html>

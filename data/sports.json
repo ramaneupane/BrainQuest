@@ -1,0 +1,52 @@
+[
+  {
+    "id": 401,
+    "category": "Sports",
+    "difficulty": "Easy",
+    "question": "How many players are on a soccer team on the field at one time?",
+    "choices": ["9", "10", "11", "12"],
+    "correctAnswer": "11",
+    "explanation": "A soccer team has 11 players on the field during play.",
+    "tags": ["soccer", "team sports"]
+  },
+  {
+    "id": 402,
+    "category": "Sports",
+    "difficulty": "Easy",
+    "question": "What sport uses a shuttlecock?",
+    "choices": ["Tennis", "Badminton", "Golf", "Baseball"],
+    "correctAnswer": "Badminton",
+    "explanation": "Badminton uses a shuttlecock, also called a birdie.",
+    "tags": ["rackets", "games"]
+  },
+  {
+    "id": 403,
+    "category": "Sports",
+    "difficulty": "Medium",
+    "question": "How many points is a touchdown worth in American football?",
+    "choices": ["3", "6", "7", "8"],
+    "correctAnswer": "6",
+    "explanation": "A touchdown is worth 6 points in American football.",
+    "tags": ["football", "scoring"]
+  },
+  {
+    "id": 404,
+    "category": "Sports",
+    "difficulty": "Medium",
+    "question": "In basketball, how many points is a free throw worth?",
+    "choices": ["1", "2", "3", "4"],
+    "correctAnswer": "1",
+    "explanation": "A free throw in basketball is worth one point.",
+    "tags": ["basketball", "scoring"]
+  },
+  {
+    "id": 405,
+    "category": "Sports",
+    "difficulty": "Hard",
+    "question": "Which country hosted the 2016 Summer Olympics?",
+    "choices": ["China", "Brazil", "Japan", "England"],
+    "correctAnswer": "Brazil",
+    "explanation": "The 2016 Summer Olympics were held in Rio de Janeiro, Brazil.",
+    "tags": ["olympics", "world sports"]
+  }
+]

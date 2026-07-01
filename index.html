@@ -3,22 +3,45 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>BrainQuest</title>
-    <link rel="stylesheet" href="styles.css" />
+    <title>BrainQuest | General Knowledge Quiz</title>
+    <link rel="stylesheet" href="css/style.css" />
   </head>
   <body>
-    <main class="app">
-      <h1>BrainQuest</h1>
-      <p class="subtitle">A quick quiz to test your curiosity.</p>
-      <section class="quiz-card">
-        <h2 id="question">Loading question...</h2>
-        <div id="options" class="options"></div>
-        <p id="status" class="status">Choose an answer.</p>
-        <button id="nextBtn" class="hidden">Next Question</button>
+    <main class="page">
+      <header class="topbar">
+        <a href="index.html" class="brand">BrainQuest</a>
+        <div class="actions">
+          <a href="dashboard.html" class="btn secondary">Dashboard</a>
+          <button id="themeToggle" class="ghost-btn">🌙</button>
+        </div>
+      </header>
+
+      <section class="hero">
+        <div class="hero-grid">
+          <div>
+            <p class="eyebrow">Fun learning for curious minds</p>
+            <h1>Play, learn, and grow with BrainQuest.</h1>
+            <p>Challenge yourself with bright, kid-friendly quizzes across science, math, geography, history, sports, and more.</p>
+            <div class="actions">
+              <a href="categories.html" class="btn">Start Quiz</a>
+              <a href="dashboard.html" class="btn secondary">View Progress</a>
+            </div>
+          </div>
+          <div class="card">
+            <h2>Quick Start</h2>
+            <p>Pick a category, choose a difficulty, and answer 20 fun questions. Your score and progress are saved automatically.</p>
+            <ul>
+              <li>20 random questions per quiz</li>
+              <li>Instant feedback and explanations</li>
+              <li>Light & dark mode</li>
+            </ul>
+          </div>
+        </div>
       </section>
-      <p id="score" class="score">Score: 0/0</p>
     </main>
 
-    <script src="app.js"></script>
+    <script src="js/storage.js"></script>
+    <script src="js/utils.js"></script>
+    <script src="js/app.js"></script>
   </body>
 </html>

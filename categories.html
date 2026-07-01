@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Choose a Category</title>
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <main class="page categories-page">
+      <section class="card">
+        <h1>Choose a category</h1>
+        <div class="search-row">
+          <input id="searchInput" type="search" placeholder="Search categories" />
+          <select id="difficultyFilter">
+            <option value="all">All difficulties</option>
+            <option value="Easy">Easy</option>
+            <option value="Medium">Medium</option>
+            <option value="Hard">Hard</option>
+          </select>
+        </div>
+        <div id="categoryGrid" class="category-grid"></div>
+      </section>
+    </main>
+
+    <script src="js/storage.js"></script>
+    <script src="js/utils.js"></script>
+    <script src="js/categories.js"></script>
+  </body>
+</html>
