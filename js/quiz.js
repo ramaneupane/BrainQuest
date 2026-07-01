@@ -4,6 +4,23 @@ const difficulty = quizParams.get('difficulty') || 'Mixed';
 const useTimer = quizParams.get('timer') === 'true';
 const questionLimit = 20;
 
+function normalizeCategory(value) {
+  const trimmed = value?.toString().trim();
+  if (!trimmed) return 'Mixed';
+
+  const lower = trimmed.toLowerCase();
+  if (lower === 'mixed' || lower === 'general knowledge' || lower === 'english') {
+    return 'Mixed';
+  }
+
+  return trimmed;
+}
+
+function isCategoryMatch(itemCategory, selectedCategory) {
+  if (selectedCategory === 'Mixed') return true;
+  return normalizeCategory(itemCategory).toLowerCase() === normalizeCategory(selectedCategory).toLowerCase();
+}
+
 let questions = [];
 let currentIndex = 0;
 let score = 0;
@@ -32,28 +49,45 @@ function setTheme(theme) {
 
 async function loadQuestions() {
   const files = ['science', 'math', 'geography', 'history', 'sports', 'entertainment'];
-  const allQuestions = [];
+  let allQuestions = [];
 
-  for (const file of files) {
-    const response = await fetch(`data/${file}.json`);
-    const data = await response.json();
-    allQuestions.push(...data);
+  try {
+    for (const file of files) {
+      const response = await fetch(`data/${file}.json`);
+      if (!response.ok) {
+        throw new Error(`Unable to load ${file}.json`);
+      }
+      const data = await response.json();
+      allQuestions.push(...data);
+    }
+  } catch (error) {
+    console.warn('Falling back to embedded quiz data.', error);
+    allQuestions = Array.isArray(window.BRAINQUEST_QUESTIONS) ? window.BRAINQUEST_QUESTIONS : [];
   }
 
+  if (allQuestions.length === 0) {
+    questionEl.textContent = 'Quiz questions could not be loaded.';
+    choicesEl.innerHTML = '';
+    feedbackEl.textContent = 'Please refresh the page or try again later.';
+    nextBtn.disabled = true;
+    skipBtn.disabled = true;
+    return;
+  }
+
+  const selectedCategory = normalizeCategory(category);
   let filtered = allQuestions;
-  if (category !== 'Mixed') {
-    filtered = filtered.filter((item) => item.category === category);
+  if (selectedCategory !== 'Mixed') {
+    filtered = filtered.filter((item) => isCategoryMatch(item.category, selectedCategory));
   }
   if (difficulty !== 'Mixed') {
     filtered = filtered.filter((item) => item.difficulty === difficulty);
   }
 
-  if (filtered.length < questionLimit) {
-    questions = shuffleArray(filtered);
-  } else {
-    questions = shuffleArray(filtered).slice(0, questionLimit);
+  if (filtered.length === 0) {
+    filtered = allQuestions;
   }
 
+  questions = shuffleArray(filtered).slice(0, questionLimit);
   showQuestion();
 }
 
