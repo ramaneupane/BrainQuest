@@ -27,12 +27,12 @@ function renderCategories() {
     const matchesDifficulty = difficulty === 'all' || category.difficulty === difficulty || category.difficulty === 'Mixed';
     return matchesSearch && matchesDifficulty;
   });
+  const selectedDifficulty = difficulty === 'all' ? 'Mixed' : difficulty;
 
   categoryGridEl.innerHTML = filtered.map((category) => `
-    <a class="category-card" href="quiz.html?category=${encodeURIComponent(category.name)}&difficulty=Mixed&timer=false">
+    <a class="category-card" href="quiz.html?category=${encodeURIComponent(category.name)}&difficulty=${selectedDifficulty}&timer=false">
       <span class="category-icon">${category.icon}</span>
       <h3>${category.name}</h3>
-      <p>${category.difficulty} difficulty</p>
     </a>
   `).join('');
 }
