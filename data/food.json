@@ -48,5 +48,65 @@
     "correctAnswer": "Balanced meal",
     "explanation": "A balanced meal contains carbohydrates, protein, and fats in healthy amounts.",
     "tags": ["diet", "health"]
+  },
+  {
+    "id": 806,
+    "category": "Food & Nutrition",
+    "difficulty": "Easy",
+    "question": "Which fruit is yellow and curved?",
+    "choices": ["Apple", "Banana", "Orange", "Grape"],
+    "correctAnswer": "Banana",
+    "explanation": "Bananas are yellow and curved fruits.",
+    "tags": ["fruits", "nutrition"]
+  },
+  {
+    "id": 807,
+    "category": "Food & Nutrition",
+    "difficulty": "Easy",
+    "question": "What is the main ingredient in tomato sauce?",
+    "choices": ["Tomato", "Potato", "Carrot", "Lettuce"],
+    "correctAnswer": "Tomato",
+    "explanation": "Tomato sauce is made mainly from tomatoes.",
+    "tags": ["cooking", "ingredients"]
+  },
+  {
+    "id": 808,
+    "category": "Food & Nutrition",
+    "difficulty": "Medium",
+    "question": "Which meal is usually eaten in the morning?",
+    "choices": ["Lunch", "Dinner", "Breakfast", "Snack"],
+    "correctAnswer": "Breakfast",
+    "explanation": "Breakfast is the first meal of the day, eaten in the morning.",
+    "tags": ["meals", "diet"]
+  },
+  {
+    "id": 809,
+    "category": "Food & Nutrition",
+    "difficulty": "Medium",
+    "question": "Which sweet food is made by bees?",
+    "choices": ["Jam", "Caramel", "Honey", "Sugar"],
+    "correctAnswer": "Honey",
+    "explanation": "Bees make honey from flower nectar.",
+    "tags": ["sweet", "natural"]
+  },
+  {
+    "id": 810,
+    "category": "Food & Nutrition",
+    "difficulty": "Hard",
+    "question": "Which vegetable is orange and crunchy?",
+    "choices": ["Broccoli", "Carrot", "Potato", "Lettuce"],
+    "correctAnswer": "Carrot",
+    "explanation": "Carrots are orange root vegetables that are crunchy when raw.",
+    "tags": ["vegetables", "healthy"]
+  },
+  {
+    "id": 811,
+    "category": "Food & Nutrition",
+    "difficulty": "Very Hard",
+    "question": "Which nutrient is most important for building and repairing body tissues?",
+    "choices": ["Carbohydrates", "Proteins", "Vitamins", "Fiber"],
+    "correctAnswer": "Proteins",
+    "explanation": "Proteins are essential for repairing and building tissues in the body.",
+    "tags": ["nutrition", "biology"]
   }
 ]

@@ -48,5 +48,65 @@
     "correctAnswer": "The Civil War",
     "explanation": "The American Civil War was fought between the Union and the Confederacy.",
     "tags": ["us history", "war"]
+  },
+  {
+    "id": 306,
+    "category": "History",
+    "difficulty": "Easy",
+    "question": "Who was the first female Prime Minister of the United Kingdom?",
+    "choices": ["Margaret Thatcher", "Theresa May", "Angela Merkel", "Indira Gandhi"],
+    "correctAnswer": "Margaret Thatcher",
+    "explanation": "Margaret Thatcher became the UK’s first female Prime Minister in 1979.",
+    "tags": ["leaders", "politics"]
+  },
+  {
+    "id": 307,
+    "category": "History",
+    "difficulty": "Medium",
+    "question": "Which ancient wonder was located in Egypt?",
+    "choices": ["Hanging Gardens", "Pyramids of Giza", "Colossus of Rhodes", "Statue of Zeus"],
+    "correctAnswer": "Pyramids of Giza",
+    "explanation": "The Pyramids of Giza are the only surviving ancient wonder located in Egypt.",
+    "tags": ["ancient", "landmarks"]
+  },
+  {
+    "id": 308,
+    "category": "History",
+    "difficulty": "Medium",
+    "question": "In which year did World War II end?",
+    "choices": ["1939", "1942", "1945", "1950"],
+    "correctAnswer": "1945",
+    "explanation": "World War II ended in 1945.",
+    "tags": ["wars", "20th century"]
+  },
+  {
+    "id": 309,
+    "category": "History",
+    "difficulty": "Hard",
+    "question": "Who wrote the Declaration of Independence?",
+    "choices": ["George Washington", "John Adams", "Thomas Jefferson", "Benjamin Franklin"],
+    "correctAnswer": "Thomas Jefferson",
+    "explanation": "Thomas Jefferson was the primary author of the Declaration of Independence.",
+    "tags": ["documents", "us history"]
+  },
+  {
+    "id": 310,
+    "category": "History",
+    "difficulty": "Hard",
+    "question": "What ancient civilization built pyramids in Egypt?",
+    "choices": ["Romans", "Greeks", "Egyptians", "Aztecs"],
+    "correctAnswer": "Egyptians",
+    "explanation": "The ancient Egyptians built the pyramids as tombs for pharaohs.",
+    "tags": ["ancient", "egypt"]
+  },
+  {
+    "id": 311,
+    "category": "History",
+    "difficulty": "Very Hard",
+    "question": "What ancient city was buried by a volcanic eruption in 79 AD?",
+    "choices": ["Pompeii", "Athens", "Jerusalem", "Carthage"],
+    "correctAnswer": "Pompeii",
+    "explanation": "Pompeii was buried in ash after the eruption of Mount Vesuvius.",
+    "tags": ["ancient history", "disasters"]
   }
 ]

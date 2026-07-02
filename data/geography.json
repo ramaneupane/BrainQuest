@@ -48,5 +48,65 @@
     "correctAnswer": "Tokyo",
     "explanation": "Tokyo is the capital and largest city of Japan.",
     "tags": ["capitals", "asia"]
+  },
+  {
+    "id": 206,
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "Which continent is India in?",
+    "choices": ["Africa", "Asia", "Europe", "South America"],
+    "correctAnswer": "Asia",
+    "explanation": "India is located on the continent of Asia.",
+    "tags": ["continents", "countries"]
+  },
+  {
+    "id": 207,
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "choices": ["China", "Japan", "Thailand", "South Korea"],
+    "correctAnswer": "Japan",
+    "explanation": "Japan is often called the Land of the Rising Sun.",
+    "tags": ["countries", "asia"]
+  },
+  {
+    "id": 208,
+    "category": "Geography",
+    "difficulty": "Medium",
+    "question": "What is the tallest mountain in the world?",
+    "choices": ["K2", "Mount Everest", "Kangchenjunga", "Lhotse"],
+    "correctAnswer": "Mount Everest",
+    "explanation": "Mount Everest is the tallest mountain above sea level.",
+    "tags": ["mountains", "earth"]
+  },
+  {
+    "id": 209,
+    "category": "Geography",
+    "difficulty": "Medium",
+    "question": "Which line divides Earth into Northern and Southern Hemispheres?",
+    "choices": ["Prime Meridian", "Equator", "Tropic of Cancer", "Arctic Circle"],
+    "correctAnswer": "Equator",
+    "explanation": "The Equator divides Earth into Northern and Southern Hemispheres.",
+    "tags": ["latitude", "earth"]
+  },
+  {
+    "id": 210,
+    "category": "Geography",
+    "difficulty": "Hard",
+    "question": "Which is the smallest ocean?",
+    "choices": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+    "correctAnswer": "Arctic Ocean",
+    "explanation": "The Arctic Ocean is the smallest of the world’s five oceans.",
+    "tags": ["oceans", "world"]
+  },
+  {
+    "id": 211,
+    "category": "Geography",
+    "difficulty": "Very Hard",
+    "question": "Which country spans both Europe and Asia and has the city of Istanbul?",
+    "choices": ["Russia", "Turkey", "Spain", "Egypt"],
+    "correctAnswer": "Turkey",
+    "explanation": "Turkey spans both Europe and Asia, and Istanbul lies on both continents.",
+    "tags": ["continents", "countries"]
   }
 ]

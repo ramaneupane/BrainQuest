@@ -48,5 +48,65 @@
     "correctAnswer": "Connect wirelessly to the internet",
     "explanation": "Wi-Fi lets devices connect to the internet without cables.",
     "tags": ["networking", "wireless"]
+  },
+  {
+    "id": 706,
+    "category": "Computer Science",
+    "difficulty": "Easy",
+    "question": "What part of the computer stores data long term?",
+    "choices": ["CPU", "RAM", "Hard drive", "Monitor"],
+    "correctAnswer": "Hard drive",
+    "explanation": "A hard drive stores files and programs even when the computer is turned off.",
+    "tags": ["hardware", "storage"]
+  },
+  {
+    "id": 707,
+    "category": "Computer Science",
+    "difficulty": "Easy",
+    "question": "What is the name of the global system of connected computer networks?",
+    "choices": ["Internet", "Intranet", "Web", "Ethernet"],
+    "correctAnswer": "Internet",
+    "explanation": "The Internet is a worldwide network of computers.",
+    "tags": ["networking", "internet"]
+  },
+  {
+    "id": 708,
+    "category": "Computer Science",
+    "difficulty": "Medium",
+    "question": "Which device prints documents on paper?",
+    "choices": ["Scanner", "Printer", "Keyboard", "Speaker"],
+    "correctAnswer": "Printer",
+    "explanation": "A printer transfers digital documents to paper.",
+    "tags": ["hardware", "office"]
+  },
+  {
+    "id": 709,
+    "category": "Computer Science",
+    "difficulty": "Medium",
+    "question": "Which software is used to write letters and documents?",
+    "choices": ["Spreadsheet", "Web browser", "Word processor", "Media player"],
+    "correctAnswer": "Word processor",
+    "explanation": "A word processor is used to create written documents.",
+    "tags": ["software", "productivity"]
+  },
+  {
+    "id": 710,
+    "category": "Computer Science",
+    "difficulty": "Hard",
+    "question": "What is the name for a small picture or symbol you click to open an app?",
+    "choices": ["Icon", "Window", "Folder", "Cursor"],
+    "correctAnswer": "Icon",
+    "explanation": "An icon is a clickable symbol representing an application or file.",
+    "tags": ["user interface", "software"]
+  },
+  {
+    "id": 711,
+    "category": "Computer Science",
+    "difficulty": "Very Hard",
+    "question": "What kind of code protects data by converting it into unreadable text without the correct key?",
+    "choices": ["Encryption", "Compilation", "Debugging", "Streaming"],
+    "correctAnswer": "Encryption",
+    "explanation": "Encryption secures data by transforming it into a coded form that requires a key to decode.",
+    "tags": ["security", "data"]
   }
 ]

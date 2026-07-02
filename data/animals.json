@@ -48,5 +48,65 @@
     "correctAnswer": "Blue whale",
     "explanation": "The blue whale is the largest animal on Earth.",
     "tags": ["marine", "ocean"]
+  },
+  {
+    "id": 1006,
+    "category": "Animals",
+    "difficulty": "Easy",
+    "question": "Which animal is known for its black and white stripes?",
+    "choices": ["Tiger", "Zebra", "Skunk", "Panda"],
+    "correctAnswer": "Zebra",
+    "explanation": "Zebras are known for their distinctive black and white stripes.",
+    "tags": ["mammals", "wildlife"]
+  },
+  {
+    "id": 1007,
+    "category": "Animals",
+    "difficulty": "Easy",
+    "question": "What is a baby kangaroo called?",
+    "choices": ["Cub", "Fawn", "Calf", "Joey"],
+    "correctAnswer": "Joey",
+    "explanation": "A baby kangaroo is called a joey.",
+    "tags": ["marsupials", "animals"]
+  },
+  {
+    "id": 1008,
+    "category": "Animals",
+    "difficulty": "Medium",
+    "question": "Which animal lives in a shell and moves slowly?",
+    "choices": ["Turtle", "Snail", "Lizard", "Crab"],
+    "correctAnswer": "Snail",
+    "explanation": "A snail carries its shell and moves slowly.",
+    "tags": ["invertebrates", "nature"]
+  },
+  {
+    "id": 1009,
+    "category": "Animals",
+    "difficulty": "Hard",
+    "question": "Which mammal lays eggs?",
+    "choices": ["Platypus", "Dolphin", "Kangaroo", "Whale"],
+    "correctAnswer": "Platypus",
+    "explanation": "The platypus is one of the few mammals that lay eggs.",
+    "tags": ["mammals", "unique"]
+  },
+  {
+    "id": 1010,
+    "category": "Animals",
+    "difficulty": "Medium",
+    "question": "Which bird can mimic human speech?",
+    "choices": ["Parrot", "Eagle", "Ostrich", "Penguin"],
+    "correctAnswer": "Parrot",
+    "explanation": "Parrots are known for their ability to mimic speech.",
+    "tags": ["birds", "behavior"]
+  },
+  {
+    "id": 1011,
+    "category": "Animals",
+    "difficulty": "Very Hard",
+    "question": "What is the name of the prehistoric bird with teeth that lived during the Mesozoic era?",
+    "choices": ["Archaeopteryx", "Pterodactyl", "Dodo", "Quetzalcoatlus"],
+    "correctAnswer": "Archaeopteryx",
+    "explanation": "Archaeopteryx is an early bird from the Mesozoic era and is known for having teeth.",
+    "tags": ["prehistoric", "birds"]
   }
 ]

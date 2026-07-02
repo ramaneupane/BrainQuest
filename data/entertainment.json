@@ -48,5 +48,65 @@
     "correctAnswer": "Frozen",
     "explanation": "Olaf is a beloved snowman from Frozen.",
     "tags": ["movies", "animation"]
+  },
+  {
+    "id": 506,
+    "category": "Entertainment",
+    "difficulty": "Easy",
+    "question": "What is the name of Mickey Mouse's pet dog?",
+    "choices": ["Pluto", "Goofy", "Donald", "Daisy"],
+    "correctAnswer": "Pluto",
+    "explanation": "Pluto is Mickey Mouse's pet dog.",
+    "tags": ["cartoons", "characters"]
+  },
+  {
+    "id": 507,
+    "category": "Entertainment",
+    "difficulty": "Easy",
+    "question": "Which superhero wears a red and blue suit and shoots webs?",
+    "choices": ["Batman", "Superman", "Spider-Man", "Iron Man"],
+    "correctAnswer": "Spider-Man",
+    "explanation": "Spider-Man is known for his red and blue suit and web-slinging.",
+    "tags": ["superheroes", "comics"]
+  },
+  {
+    "id": 508,
+    "category": "Entertainment",
+    "difficulty": "Medium",
+    "question": "What is the name of the wizarding school in Harry Potter?",
+    "choices": ["Hogwarts", "Middle Earth", "Narnia", "Neverland"],
+    "correctAnswer": "Hogwarts",
+    "explanation": "Hogwarts is the wizarding school attended by Harry Potter.",
+    "tags": ["books", "movies"]
+  },
+  {
+    "id": 509,
+    "category": "Entertainment",
+    "difficulty": "Medium",
+    "question": "Which instrument has strings and is held under the chin?",
+    "choices": ["Guitar", "Cello", "Violin", "Flute"],
+    "correctAnswer": "Violin",
+    "explanation": "A violin is held under the chin and played with a bow.",
+    "tags": ["music", "instruments"]
+  },
+  {
+    "id": 510,
+    "category": "Entertainment",
+    "difficulty": "Hard",
+    "question": "Which studio produced the movie Frozen?",
+    "choices": ["Pixar", "Disney", "DreamWorks", "Warner Bros."],
+    "correctAnswer": "Disney",
+    "explanation": "Frozen was produced by Disney Animation Studios.",
+    "tags": ["movies", "studios"]
+  },
+  {
+    "id": 511,
+    "category": "Entertainment",
+    "difficulty": "Very Hard",
+    "question": "Which film franchise features a character called Darth Vader?",
+    "choices": ["Star Trek", "Star Wars", "The Lord of the Rings", "Harry Potter"],
+    "correctAnswer": "Star Wars",
+    "explanation": "Darth Vader is a central character in the Star Wars franchise.",
+    "tags": ["movies", "franchises"]
   }
 ]

@@ -48,5 +48,65 @@
     "correctAnswer": "Canberra",
     "explanation": "Canberra is the capital city of Australia.",
     "tags": ["capitals", "oceania"]
+  },
+  {
+    "id": 906,
+    "category": "Countries",
+    "difficulty": "Easy",
+    "question": "Which country is home to the Eiffel Tower?",
+    "choices": ["Italy", "France", "Spain", "Germany"],
+    "correctAnswer": "France",
+    "explanation": "The Eiffel Tower is a famous landmark in Paris, France.",
+    "tags": ["landmarks", "europe"]
+  },
+  {
+    "id": 907,
+    "category": "Countries",
+    "difficulty": "Medium",
+    "question": "Which desert covers much of northern Africa?",
+    "choices": ["Gobi Desert", "Sahara Desert", "Kalahari Desert", "Moab Desert"],
+    "correctAnswer": "Sahara Desert",
+    "explanation": "The Sahara is the largest hot desert and covers much of northern Africa.",
+    "tags": ["deserts", "africa"]
+  },
+  {
+    "id": 908,
+    "category": "Countries",
+    "difficulty": "Medium",
+    "question": "Which country is known for the Great Wall?",
+    "choices": ["China", "Japan", "Korea", "Vietnam"],
+    "correctAnswer": "China",
+    "explanation": "The Great Wall is a historic landmark in China.",
+    "tags": ["landmarks", "asia"]
+  },
+  {
+    "id": 909,
+    "category": "Countries",
+    "difficulty": "Hard",
+    "question": "Which country is famous for maple syrup and hockey?",
+    "choices": ["Canada", "Sweden", "Finland", "Switzerland"],
+    "correctAnswer": "Canada",
+    "explanation": "Canada is well known for maple syrup and popular hockey culture.",
+    "tags": ["culture", "north america"]
+  },
+  {
+    "id": 910,
+    "category": "Countries",
+    "difficulty": "Easy",
+    "question": "Which country is home to the Sydney Opera House?",
+    "choices": ["Canada", "Australia", "Brazil", "Japan"],
+    "correctAnswer": "Australia",
+    "explanation": "The Sydney Opera House is located in Sydney, Australia.",
+    "tags": ["landmarks", "oceania"]
+  },
+  {
+    "id": 911,
+    "category": "Countries",
+    "difficulty": "Very Hard",
+    "question": "Which landlocked country is the smallest in the world by area?",
+    "choices": ["San Marino", "Vatican City", "Liechtenstein", "Monaco"],
+    "correctAnswer": "Liechtenstein",
+    "explanation": "Liechtenstein is the smallest landlocked country by area.",
+    "tags": ["countries", "size"]
   }
 ]

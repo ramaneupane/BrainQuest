@@ -24,7 +24,7 @@ function renderCategories() {
   const difficulty = difficultyFilterEl.value;
   const filtered = categories.filter((category) => {
     const matchesSearch = category.name.toLowerCase().includes(search);
-    const matchesDifficulty = difficulty === 'all' || category.difficulty === difficulty;
+    const matchesDifficulty = difficulty === 'all' || category.difficulty === difficulty || category.difficulty === 'Mixed';
     return matchesSearch && matchesDifficulty;
   });
 

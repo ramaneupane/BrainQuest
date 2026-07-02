@@ -48,5 +48,65 @@
     "correctAnswer": "Brazil",
     "explanation": "The 2016 Summer Olympics were held in Rio de Janeiro, Brazil.",
     "tags": ["olympics", "world sports"]
+  },
+  {
+    "id": 406,
+    "category": "Sports",
+    "difficulty": "Easy",
+    "question": "Which sport uses a puck on ice?",
+    "choices": ["Ice hockey", "Basketball", "Soccer", "Baseball"],
+    "correctAnswer": "Ice hockey",
+    "explanation": "Ice hockey is played on ice with a puck.",
+    "tags": ["winter sports", "team sports"]
+  },
+  {
+    "id": 407,
+    "category": "Sports",
+    "difficulty": "Easy",
+    "question": "Which sport is played on a diamond-shaped field?",
+    "choices": ["Baseball", "Soccer", "Tennis", "Cricket"],
+    "correctAnswer": "Baseball",
+    "explanation": "Baseball is played on a diamond-shaped field.",
+    "tags": ["field sports", "games"]
+  },
+  {
+    "id": 408,
+    "category": "Sports",
+    "difficulty": "Medium",
+    "question": "How many points is a field goal worth in basketball?",
+    "choices": ["1", "2", "3", "4"],
+    "correctAnswer": "2",
+    "explanation": "A standard field goal in basketball is worth two points.",
+    "tags": ["basketball", "scoring"]
+  },
+  {
+    "id": 409,
+    "category": "Sports",
+    "difficulty": "Medium",
+    "question": "How many players are on a volleyball team on the court?",
+    "choices": ["4", "5", "6", "7"],
+    "correctAnswer": "6",
+    "explanation": "A volleyball team has six players on the court at one time.",
+    "tags": ["team sports", "volleyball"]
+  },
+  {
+    "id": 410,
+    "category": "Sports",
+    "difficulty": "Hard",
+    "question": "Which horse racing event is held annually in Kentucky?",
+    "choices": ["The Belmont Stakes", "The Preakness Stakes", "The Kentucky Derby", "The Grand National"],
+    "correctAnswer": "The Kentucky Derby",
+    "explanation": "The Kentucky Derby is a famous annual horse race held in Kentucky.",
+    "tags": ["racing", "events"]
+  },
+  {
+    "id": 411,
+    "category": "Sports",
+    "difficulty": "Very Hard",
+    "question": "Which athlete is known for winning the most Olympic gold medals in summer games?",
+    "choices": ["Michael Phelps", "Usain Bolt", "Simone Biles", "Carl Lewis"],
+    "correctAnswer": "Michael Phelps",
+    "explanation": "Michael Phelps holds the record for the most Olympic gold medals in summer competition.",
+    "tags": ["olympics", "records"]
   }
 ]

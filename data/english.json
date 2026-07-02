@@ -48,5 +48,65 @@
     "correctAnswer": "Start a conversation",
     "explanation": "'Break the ice' means to begin talking in a friendly way.",
     "tags": ["idioms", "expression"]
+  },
+  {
+    "id": 606,
+    "category": "English",
+    "difficulty": "Easy",
+    "question": "Which word is a verb in the sentence 'She dances'?",
+    "choices": ["She", "Dances", "The", "Happy"],
+    "correctAnswer": "Dances",
+    "explanation": "In the sentence, 'dances' describes the action she performs.",
+    "tags": ["grammar", "verbs"]
+  },
+  {
+    "id": 607,
+    "category": "English",
+    "difficulty": "Easy",
+    "question": "What is the plural form of 'child'?",
+    "choices": ["Childs", "Children", "Childes", "Child"],
+    "correctAnswer": "Children",
+    "explanation": "The correct plural form of child is children.",
+    "tags": ["grammar", "plural"]
+  },
+  {
+    "id": 608,
+    "category": "English",
+    "difficulty": "Medium",
+    "question": "Choose the correct pronoun: '______ am going to school.'",
+    "choices": ["He", "She", "They", "I"],
+    "correctAnswer": "I",
+    "explanation": "The correct pronoun in that sentence is 'I'.",
+    "tags": ["grammar", "pronouns"]
+  },
+  {
+    "id": 609,
+    "category": "English",
+    "difficulty": "Medium",
+    "question": "Which punctuation ends a question?",
+    "choices": ["Period", "Comma", "Question mark", "Exclamation mark"],
+    "correctAnswer": "Question mark",
+    "explanation": "A question mark is used at the end of a sentence asking a question.",
+    "tags": ["punctuation", "writing"]
+  },
+  {
+    "id": 610,
+    "category": "English",
+    "difficulty": "Hard",
+    "question": "What is the past tense of 'run'?",
+    "choices": ["Runned", "Ran", "Running", "Runs"],
+    "correctAnswer": "Ran",
+    "explanation": "The past tense of run is ran.",
+    "tags": ["verbs", "tenses"]
+  },
+  {
+    "id": 611,
+    "category": "English",
+    "difficulty": "Very Hard",
+    "question": "What literary device compares two things using 'like' or 'as'?",
+    "choices": ["Metaphor", "Simile", "Personification", "Hyperbole"],
+    "correctAnswer": "Simile",
+    "explanation": "A simile compares two things using 'like' or 'as'.",
+    "tags": ["literature", "figures of speech"]
   }
 ]

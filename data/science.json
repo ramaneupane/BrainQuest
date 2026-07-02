@@ -48,5 +48,65 @@
     "correctAnswer": "Jupiter",
     "explanation": "Jupiter is the largest planet and is a gas giant.",
     "tags": ["space", "planets"]
+  },
+  {
+    "id": 6,
+    "category": "Science",
+    "difficulty": "Easy",
+    "question": "What force pulls objects toward Earth?",
+    "choices": ["Friction", "Magnetism", "Gravity", "Electricity"],
+    "correctAnswer": "Gravity",
+    "explanation": "Gravity pulls objects toward the Earth.",
+    "tags": ["physics", "forces"]
+  },
+  {
+    "id": 7,
+    "category": "Science",
+    "difficulty": "Medium",
+    "question": "What is the process by which plants make food using sunlight?",
+    "choices": ["Respiration", "Photosynthesis", "Digestion", "Pollination"],
+    "correctAnswer": "Photosynthesis",
+    "explanation": "Photosynthesis is how plants convert sunlight into energy.",
+    "tags": ["biology", "plants"]
+  },
+  {
+    "id": 8,
+    "category": "Science",
+    "difficulty": "Easy",
+    "question": "Which organ pumps blood through the body?",
+    "choices": ["Liver", "Brain", "Heart", "Lungs"],
+    "correctAnswer": "Heart",
+    "explanation": "The heart pumps blood to deliver oxygen and nutrients.",
+    "tags": ["biology", "human body"]
+  },
+  {
+    "id": 9,
+    "category": "Science",
+    "difficulty": "Medium",
+    "question": "What is the chemical symbol for gold?",
+    "choices": ["Ag", "Au", "Fe", "Go"],
+    "correctAnswer": "Au",
+    "explanation": "Au is the chemical symbol for gold.",
+    "tags": ["chemistry", "elements"]
+  },
+  {
+    "id": 10,
+    "category": "Science",
+    "difficulty": "Hard",
+    "question": "What do bees collect from flowers to make honey?",
+    "choices": ["Pollen", "Nectar", "Seeds", "Water"],
+    "correctAnswer": "Nectar",
+    "explanation": "Bees collect nectar and turn it into honey.",
+    "tags": ["biology", "animals"]
+  },
+  {
+    "id": 11,
+    "category": "Science",
+    "difficulty": "Very Hard",
+    "question": "What is the process where a solid changes directly into a gas?",
+    "choices": ["Condensation", "Sublimation", "Evaporation", "Freezing"],
+    "correctAnswer": "Sublimation",
+    "explanation": "Sublimation is when a solid turns directly into a gas without becoming liquid first.",
+    "tags": ["physics", "states of matter"]
   }
 ]
