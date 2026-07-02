@@ -48,7 +48,7 @@ function setTheme(theme) {
 }
 
 async function loadQuestions() {
-  const files = ['science', 'math', 'geography', 'history', 'sports', 'entertainment'];
+  const files = ['science', 'math', 'geography', 'history', 'sports', 'entertainment', 'english', 'technology', 'food', 'countries', 'animals', 'mythology', 'environment'];
   let allQuestions = [];
 
   try {

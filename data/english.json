@@ -1,0 +1,52 @@
+[
+  {
+    "id": 601,
+    "category": "English",
+    "difficulty": "Easy",
+    "question": "What is the antonym of 'ancient'?",
+    "choices": ["Old", "Modern", "Historic", "Aged"],
+    "correctAnswer": "Modern",
+    "explanation": "'Modern' is the opposite of 'ancient'.",
+    "tags": ["vocabulary", "antonyms"]
+  },
+  {
+    "id": 602,
+    "category": "English",
+    "difficulty": "Easy",
+    "question": "Which of these is a noun?",
+    "choices": ["Run", "Happy", "Book", "Quickly"],
+    "correctAnswer": "Book",
+    "explanation": "'Book' is a noun because it names a thing.",
+    "tags": ["grammar", "parts of speech"]
+  },
+  {
+    "id": 603,
+    "category": "English",
+    "difficulty": "Medium",
+    "question": "In a story, the main character is called the...",
+    "choices": ["Villain", "Protagonist", "Narrator", "Sidekick"],
+    "correctAnswer": "Protagonist",
+    "explanation": "The protagonist is the main character in a story.",
+    "tags": ["literature", "story elements"]
+  },
+  {
+    "id": 604,
+    "category": "English",
+    "difficulty": "Medium",
+    "question": "Which word is a synonym for 'happy'?",
+    "choices": ["Sad", "Joyful", "Angry", "Tired"],
+    "correctAnswer": "Joyful",
+    "explanation": "'Joyful' means feeling happy.",
+    "tags": ["vocabulary", "synonyms"]
+  },
+  {
+    "id": 605,
+    "category": "English",
+    "difficulty": "Hard",
+    "question": "What is the meaning of the idiom 'break the ice'?",
+    "choices": ["Melt ice", "Start a conversation", "Hurt someone", "Build a wall"],
+    "correctAnswer": "Start a conversation",
+    "explanation": "'Break the ice' means to begin talking in a friendly way.",
+    "tags": ["idioms", "expression"]
+  }
+]

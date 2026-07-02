@@ -1,0 +1,52 @@
+[
+  {
+    "id": 901,
+    "category": "Countries",
+    "difficulty": "Easy",
+    "question": "What is the capital of Japan?",
+    "choices": ["Seoul", "Tokyo", "Beijing", "Bangkok"],
+    "correctAnswer": "Tokyo",
+    "explanation": "Tokyo is the capital city of Japan.",
+    "tags": ["capitals", "asia"]
+  },
+  {
+    "id": 902,
+    "category": "Countries",
+    "difficulty": "Easy",
+    "question": "Which country’s capital is Ottawa?",
+    "choices": ["Australia", "Canada", "New Zealand", "Ireland"],
+    "correctAnswer": "Canada",
+    "explanation": "Ottawa is the capital city of Canada.",
+    "tags": ["capitals", "north america"]
+  },
+  {
+    "id": 903,
+    "category": "Countries",
+    "difficulty": "Medium",
+    "question": "What is the capital of Egypt?",
+    "choices": ["Cairo", "Nairobi", "Rabat", "Khartoum"],
+    "correctAnswer": "Cairo",
+    "explanation": "Cairo is the capital city of Egypt.",
+    "tags": ["capitals", "africa"]
+  },
+  {
+    "id": 904,
+    "category": "Countries",
+    "difficulty": "Medium",
+    "question": "Which country has the largest population in the world?",
+    "choices": ["India", "United States", "China", "Russia"],
+    "correctAnswer": "China",
+    "explanation": "China has the largest population of any country.",
+    "tags": ["population", "world"]
+  },
+  {
+    "id": 905,
+    "category": "Countries",
+    "difficulty": "Hard",
+    "question": "What is the capital of Australia?",
+    "choices": ["Sydney", "Melbourne", "Canberra", "Perth"],
+    "correctAnswer": "Canberra",
+    "explanation": "Canberra is the capital city of Australia.",
+    "tags": ["capitals", "oceania"]
+  }
+]

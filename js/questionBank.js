@@ -298,5 +298,355 @@ window.BRAINQUEST_QUESTIONS = [
     "correctAnswer": "Frozen",
     "explanation": "Olaf is a beloved snowman from Frozen.",
     "tags": ["movies", "animation"]
+  },
+  {
+    "id": 601,
+    "category": "English",
+    "difficulty": "Easy",
+    "question": "What is the antonym of 'ancient'?",
+    "choices": ["Old", "Modern", "Historic", "Aged"],
+    "correctAnswer": "Modern",
+    "explanation": "'Modern' is the opposite of 'ancient'.",
+    "tags": ["vocabulary", "antonyms"]
+  },
+  {
+    "id": 602,
+    "category": "English",
+    "difficulty": "Easy",
+    "question": "Which of these is a noun?",
+    "choices": ["Run", "Happy", "Book", "Quickly"],
+    "correctAnswer": "Book",
+    "explanation": "'Book' is a noun because it names a thing.",
+    "tags": ["grammar", "parts of speech"]
+  },
+  {
+    "id": 603,
+    "category": "English",
+    "difficulty": "Medium",
+    "question": "In a story, the main character is called the...",
+    "choices": ["Villain", "Protagonist", "Narrator", "Sidekick"],
+    "correctAnswer": "Protagonist",
+    "explanation": "The protagonist is the main character in a story.",
+    "tags": ["literature", "story elements"]
+  },
+  {
+    "id": 604,
+    "category": "English",
+    "difficulty": "Medium",
+    "question": "Which word is a synonym for 'happy'?",
+    "choices": ["Sad", "Joyful", "Angry", "Tired"],
+    "correctAnswer": "Joyful",
+    "explanation": "'Joyful' means feeling happy.",
+    "tags": ["vocabulary", "synonyms"]
+  },
+  {
+    "id": 605,
+    "category": "English",
+    "difficulty": "Hard",
+    "question": "What is the meaning of the idiom 'break the ice'?",
+    "choices": ["Melt ice", "Start a conversation", "Hurt someone", "Build a wall"],
+    "correctAnswer": "Start a conversation",
+    "explanation": "'Break the ice' means to begin talking in a friendly way.",
+    "tags": ["idioms", "expression"]
+  },
+  {
+    "id": 701,
+    "category": "Computer Science",
+    "difficulty": "Easy",
+    "question": "What does CPU stand for?",
+    "choices": ["Central Processing Unit", "Computer Power Unit", "Control Program Unit", "Central Power Utility"],
+    "correctAnswer": "Central Processing Unit",
+    "explanation": "CPU stands for Central Processing Unit.",
+    "tags": ["computer", "hardware"]
+  },
+  {
+    "id": 702,
+    "category": "Computer Science",
+    "difficulty": "Easy",
+    "question": "Which device is used to point and click on a computer screen?",
+    "choices": ["Printer", "Mouse", "Keyboard", "Monitor"],
+    "correctAnswer": "Mouse",
+    "explanation": "A mouse is used to point and click on a computer screen.",
+    "tags": ["hardware", "input"]
+  },
+  {
+    "id": 703,
+    "category": "Computer Science",
+    "difficulty": "Medium",
+    "question": "What is the name for programs that let you browse the internet?",
+    "choices": ["Text editors", "Web browsers", "Spreadsheets", "Calculators"],
+    "correctAnswer": "Web browsers",
+    "explanation": "Web browsers are programs for viewing websites online.",
+    "tags": ["software", "internet"]
+  },
+  {
+    "id": 704,
+    "category": "Computer Science",
+    "difficulty": "Medium",
+    "question": "Which one is a programming language?",
+    "choices": ["HTML", "Python", "JPEG", "SQL"],
+    "correctAnswer": "Python",
+    "explanation": "Python is a general-purpose programming language.",
+    "tags": ["programming", "languages"]
+  },
+  {
+    "id": 705,
+    "category": "Computer Science",
+    "difficulty": "Hard",
+    "question": "What does 'Wi-Fi' help a device do?",
+    "choices": ["Print files", "Connect wirelessly to the internet", "Store data", "Charge the battery"],
+    "correctAnswer": "Connect wirelessly to the internet",
+    "explanation": "Wi-Fi lets devices connect to the internet without cables.",
+    "tags": ["networking", "wireless"]
+  },
+  {
+    "id": 801,
+    "category": "Food & Nutrition",
+    "difficulty": "Easy",
+    "question": "Which vitamin is found in oranges and helps keep you healthy?",
+    "choices": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin K"],
+    "correctAnswer": "Vitamin C",
+    "explanation": "Oranges are rich in Vitamin C, which supports the immune system.",
+    "tags": ["vitamins", "health"]
+  },
+  {
+    "id": 802,
+    "category": "Food & Nutrition",
+    "difficulty": "Easy",
+    "question": "Which food group includes bread, rice, and pasta?",
+    "choices": ["Fruits", "Grains", "Dairy", "Protein"],
+    "correctAnswer": "Grains",
+    "explanation": "Bread, rice, and pasta are part of the grains food group.",
+    "tags": ["nutrition", "food groups"]
+  },
+  {
+    "id": 803,
+    "category": "Food & Nutrition",
+    "difficulty": "Medium",
+    "question": "Which nutrient helps build strong muscles?",
+    "choices": ["Carbohydrates", "Proteins", "Sugars", "Fats"],
+    "correctAnswer": "Proteins",
+    "explanation": "Proteins are essential for muscle growth and repair.",
+    "tags": ["nutrition", "protein"]
+  },
+  {
+    "id": 804,
+    "category": "Food & Nutrition",
+    "difficulty": "Medium",
+    "question": "Which food is a good source of calcium?",
+    "choices": ["Milk", "Apple", "Bread", "Chicken"],
+    "correctAnswer": "Milk",
+    "explanation": "Milk is rich in calcium, which supports strong bones.",
+    "tags": ["dairy", "minerals"]
+  },
+  {
+    "id": 805,
+    "category": "Food & Nutrition",
+    "difficulty": "Hard",
+    "question": "What do we call food that contains a balance of carbohydrates, protein, and fat?",
+    "choices": ["Fast food", "Junk food", "Balanced meal", "Snack"],
+    "correctAnswer": "Balanced meal",
+    "explanation": "A balanced meal contains carbohydrates, protein, and fats in healthy amounts.",
+    "tags": ["diet", "health"]
+  },
+  {
+    "id": 901,
+    "category": "Countries",
+    "difficulty": "Easy",
+    "question": "What is the capital of Japan?",
+    "choices": ["Seoul", "Tokyo", "Beijing", "Bangkok"],
+    "correctAnswer": "Tokyo",
+    "explanation": "Tokyo is the capital city of Japan.",
+    "tags": ["capitals", "asia"]
+  },
+  {
+    "id": 902,
+    "category": "Countries",
+    "difficulty": "Easy",
+    "question": "Which country’s capital is Ottawa?",
+    "choices": ["Australia", "Canada", "New Zealand", "Ireland"],
+    "correctAnswer": "Canada",
+    "explanation": "Ottawa is the capital city of Canada.",
+    "tags": ["capitals", "north america"]
+  },
+  {
+    "id": 903,
+    "category": "Countries",
+    "difficulty": "Medium",
+    "question": "What is the capital of Egypt?",
+    "choices": ["Cairo", "Nairobi", "Rabat", "Khartoum"],
+    "correctAnswer": "Cairo",
+    "explanation": "Cairo is the capital city of Egypt.",
+    "tags": ["capitals", "africa"]
+  },
+  {
+    "id": 904,
+    "category": "Countries",
+    "difficulty": "Medium",
+    "question": "Which country has the largest population in the world?",
+    "choices": ["India", "United States", "China", "Russia"],
+    "correctAnswer": "China",
+    "explanation": "China has the largest population of any country.",
+    "tags": ["population", "world"]
+  },
+  {
+    "id": 905,
+    "category": "Countries",
+    "difficulty": "Hard",
+    "question": "What is the capital of Australia?",
+    "choices": ["Sydney", "Melbourne", "Canberra", "Perth"],
+    "correctAnswer": "Canberra",
+    "explanation": "Canberra is the capital city of Australia.",
+    "tags": ["capitals", "oceania"]
+  },
+  {
+    "id": 1001,
+    "category": "Animals",
+    "difficulty": "Easy",
+    "question": "Which animal is known as the king of the jungle?",
+    "choices": ["Lion", "Tiger", "Elephant", "Bear"],
+    "correctAnswer": "Lion",
+    "explanation": "The lion is often called the king of the jungle.",
+    "tags": ["mammals", "wildlife"]
+  },
+  {
+    "id": 1002,
+    "category": "Animals",
+    "difficulty": "Easy",
+    "question": "Which bird is known for its beautiful tail feathers?",
+    "choices": ["Eagle", "Penguin", "Peacock", "Swan"],
+    "correctAnswer": "Peacock",
+    "explanation": "Peacocks are famous for their colorful tail feathers.",
+    "tags": ["birds", "nature"]
+  },
+  {
+    "id": 1003,
+    "category": "Animals",
+    "difficulty": "Medium",
+    "question": "What is the fastest land animal?",
+    "choices": ["Cheetah", "Horse", "Kangaroo", "Ostrich"],
+    "correctAnswer": "Cheetah",
+    "explanation": "The cheetah is the fastest land animal.",
+    "tags": ["mammals", "speed"]
+  },
+  {
+    "id": 1004,
+    "category": "Animals",
+    "difficulty": "Medium",
+    "question": "Which animal uses echolocation to find food?",
+    "choices": ["Bat", "Bear", "Fox", "Deer"],
+    "correctAnswer": "Bat",
+    "explanation": "Bats use echolocation, sending sounds and listening to echoes.",
+    "tags": ["mammals", "behavior"]
+  },
+  {
+    "id": 1005,
+    "category": "Animals",
+    "difficulty": "Hard",
+    "question": "Which marine animal is the largest in the world?",
+    "choices": ["Blue whale", "Great white shark", "Orca", "Giant squid"],
+    "correctAnswer": "Blue whale",
+    "explanation": "The blue whale is the largest animal on Earth.",
+    "tags": ["marine", "ocean"]
+  },
+  {
+    "id": 1101,
+    "category": "Mythology",
+    "difficulty": "Easy",
+    "question": "Who is the king of the Greek gods?",
+    "choices": ["Poseidon", "Zeus", "Hades", "Apollo"],
+    "correctAnswer": "Zeus",
+    "explanation": "Zeus is the king of the gods in Greek mythology.",
+    "tags": ["greece", "gods"]
+  },
+  {
+    "id": 1102,
+    "category": "Mythology",
+    "difficulty": "Easy",
+    "question": "Which creature has the body of a lion and the head of an eagle?",
+    "choices": ["Dragon", "Unicorn", "Griffin", "Phoenix"],
+    "correctAnswer": "Griffin",
+    "explanation": "A griffin combines a lion’s body with an eagle’s head.",
+    "tags": ["creatures", "mythical"]
+  },
+  {
+    "id": 1103,
+    "category": "Mythology",
+    "difficulty": "Medium",
+    "question": "Which holy book is sacred to Christians?",
+    "choices": ["Quran", "Torah", "Bible", "Vedas"],
+    "correctAnswer": "Bible",
+    "explanation": "The Bible is the sacred scripture of Christianity.",
+    "tags": ["religion", "christianity"]
+  },
+  {
+    "id": 1104,
+    "category": "Mythology",
+    "difficulty": "Medium",
+    "question": "In Norse mythology, what is the name of the god of thunder?",
+    "choices": ["Loki", "Odin", "Thor", "Freyr"],
+    "correctAnswer": "Thor",
+    "explanation": "Thor is the Norse god associated with thunder.",
+    "tags": ["norse", "gods"]
+  },
+  {
+    "id": 1105,
+    "category": "Mythology",
+    "difficulty": "Hard",
+    "question": "Which Hindu god is known as the remover of obstacles?",
+    "choices": ["Shiva", "Vishnu", "Lakshmi", "Ganesha"],
+    "correctAnswer": "Ganesha",
+    "explanation": "Ganesha is worshipped as the remover of obstacles in Hindu tradition.",
+    "tags": ["hinduism", "deities"]
+  },
+  {
+    "id": 1201,
+    "category": "Environment",
+    "difficulty": "Easy",
+    "question": "What do plants need to make food through photosynthesis?",
+    "choices": ["Sunlight", "Chocolate", "Salt", "Leather"],
+    "correctAnswer": "Sunlight",
+    "explanation": "Plants use sunlight, water, and carbon dioxide to make food.",
+    "tags": ["plants", "science"]
+  },
+  {
+    "id": 1202,
+    "category": "Environment",
+    "difficulty": "Easy",
+    "question": "What type of weather is described as heavy rain and strong winds?",
+    "choices": ["Fog", "Storm", "Snow", "Drizzle"],
+    "correctAnswer": "Storm",
+    "explanation": "A storm often includes heavy rain and strong winds.",
+    "tags": ["weather", "nature"]
+  },
+  {
+    "id": 1203,
+    "category": "Environment",
+    "difficulty": "Medium",
+    "question": "What is the process called when water changes from a liquid to a vapor?",
+    "choices": ["Condensation", "Evaporation", "Precipitation", "Freezing"],
+    "correctAnswer": "Evaporation",
+    "explanation": "Evaporation is when liquid water becomes water vapor.",
+    "tags": ["water cycle", "science"]
+  },
+  {
+    "id": 1204,
+    "category": "Environment",
+    "difficulty": "Medium",
+    "question": "Which gas do trees absorb from the air?",
+    "choices": ["Oxygen", "Nitrogen", "Carbon dioxide", "Helium"],
+    "correctAnswer": "Carbon dioxide",
+    "explanation": "Trees absorb carbon dioxide and release oxygen.",
+    "tags": ["trees", "ecology"]
+  },
+  {
+    "id": 1205,
+    "category": "Environment",
+    "difficulty": "Hard",
+    "question": "What is the name of the phenomenon when Earth’s temperature rises over time?",
+    "choices": ["Global warming", "Earth spinning", "Tidal force", "Solar eclipse"],
+    "correctAnswer": "Global warming",
+    "explanation": "Global warming refers to the long-term rise in Earth’s average temperature.",
+    "tags": ["climate", "environment"]
   }
 ];

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 701,
+    "category": "Computer Science",
+    "difficulty": "Easy",
+    "question": "What does CPU stand for?",
+    "choices": ["Central Processing Unit", "Computer Power Unit", "Control Program Unit", "Central Power Utility"],
+    "correctAnswer": "Central Processing Unit",
+    "explanation": "CPU stands for Central Processing Unit.",
+    "tags": ["computer", "hardware"]
+  },
+  {
+    "id": 702,
+    "category": "Computer Science",
+    "difficulty": "Easy",
+    "question": "Which device is used to point and click on a computer screen?",
+    "choices": ["Printer", "Mouse", "Keyboard", "Monitor"],
+    "correctAnswer": "Mouse",
+    "explanation": "A mouse is used to point and click on a computer screen.",
+    "tags": ["hardware", "input"]
+  },
+  {
+    "id": 703,
+    "category": "Computer Science",
+    "difficulty": "Medium",
+    "question": "What is the name for programs that let you browse the internet?",
+    "choices": ["Text editors", "Web browsers", "Spreadsheets", "Calculators"],
+    "correctAnswer": "Web browsers",
+    "explanation": "Web browsers are programs for viewing websites online.",
+    "tags": ["software", "internet"]
+  },
+  {
+    "id": 704,
+    "category": "Computer Science",
+    "difficulty": "Medium",
+    "question": "Which one is a programming language?",
+    "choices": ["HTML", "Python", "JPEG", "SQL"],
+    "correctAnswer": "Python",
+    "explanation": "Python is a general-purpose programming language.",
+    "tags": ["programming", "languages"]
+  },
+  {
+    "id": 705,
+    "category": "Computer Science",
+    "difficulty": "Hard",
+    "question": "What does 'Wi-Fi' help a device do?",
+    "choices": ["Print files", "Connect wirelessly to the internet", "Store data", "Charge the battery"],
+    "correctAnswer": "Connect wirelessly to the internet",
+    "explanation": "Wi-Fi lets devices connect to the internet without cables.",
+    "tags": ["networking", "wireless"]
+  }
+]

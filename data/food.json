@@ -1,0 +1,52 @@
+[
+  {
+    "id": 801,
+    "category": "Food & Nutrition",
+    "difficulty": "Easy",
+    "question": "Which vitamin is found in oranges and helps keep you healthy?",
+    "choices": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin K"],
+    "correctAnswer": "Vitamin C",
+    "explanation": "Oranges are rich in Vitamin C, which supports the immune system.",
+    "tags": ["vitamins", "health"]
+  },
+  {
+    "id": 802,
+    "category": "Food & Nutrition",
+    "difficulty": "Easy",
+    "question": "Which food group includes bread, rice, and pasta?",
+    "choices": ["Fruits", "Grains", "Dairy", "Protein"],
+    "correctAnswer": "Grains",
+    "explanation": "Bread, rice, and pasta are part of the grains food group.",
+    "tags": ["nutrition", "food groups"]
+  },
+  {
+    "id": 803,
+    "category": "Food & Nutrition",
+    "difficulty": "Medium",
+    "question": "Which nutrient helps build strong muscles?",
+    "choices": ["Carbohydrates", "Proteins", "Sugars", "Fats"],
+    "correctAnswer": "Proteins",
+    "explanation": "Proteins are essential for muscle growth and repair.",
+    "tags": ["nutrition", "protein"]
+  },
+  {
+    "id": 804,
+    "category": "Food & Nutrition",
+    "difficulty": "Medium",
+    "question": "Which food is a good source of calcium?",
+    "choices": ["Milk", "Apple", "Bread", "Chicken"],
+    "correctAnswer": "Milk",
+    "explanation": "Milk is rich in calcium, which supports strong bones.",
+    "tags": ["dairy", "minerals"]
+  },
+  {
+    "id": 805,
+    "category": "Food & Nutrition",
+    "difficulty": "Hard",
+    "question": "What do we call food that contains a balance of carbohydrates, protein, and fat?",
+    "choices": ["Fast food", "Junk food", "Balanced meal", "Snack"],
+    "correctAnswer": "Balanced meal",
+    "explanation": "A balanced meal contains carbohydrates, protein, and fats in healthy amounts.",
+    "tags": ["diet", "health"]
+  }
+]

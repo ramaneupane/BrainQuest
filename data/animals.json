@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1001,
+    "category": "Animals",
+    "difficulty": "Easy",
+    "question": "Which animal is known as the king of the jungle?",
+    "choices": ["Lion", "Tiger", "Elephant", "Bear"],
+    "correctAnswer": "Lion",
+    "explanation": "The lion is often called the king of the jungle.",
+    "tags": ["mammals", "wildlife"]
+  },
+  {
+    "id": 1002,
+    "category": "Animals",
+    "difficulty": "Easy",
+    "question": "Which bird is known for its beautiful tail feathers?",
+    "choices": ["Eagle", "Penguin", "Peacock", "Swan"],
+    "correctAnswer": "Peacock",
+    "explanation": "Peacocks are famous for their colorful tail feathers.",
+    "tags": ["birds", "nature"]
+  },
+  {
+    "id": 1003,
+    "category": "Animals",
+    "difficulty": "Medium",
+    "question": "What is the fastest land animal?",
+    "choices": ["Cheetah", "Horse", "Kangaroo", "Ostrich"],
+    "correctAnswer": "Cheetah",
+    "explanation": "The cheetah is the fastest land animal.",
+    "tags": ["mammals", "speed"]
+  },
+  {
+    "id": 1004,
+    "category": "Animals",
+    "difficulty": "Medium",
+    "question": "Which animal uses echolocation to find food?",
+    "choices": ["Bat", "Bear", "Fox", "Deer"],
+    "correctAnswer": "Bat",
+    "explanation": "Bats use echolocation, sending sounds and listening to echoes.",
+    "tags": ["mammals", "behavior"]
+  },
+  {
+    "id": 1005,
+    "category": "Animals",
+    "difficulty": "Hard",
+    "question": "Which marine animal is the largest in the world?",
+    "choices": ["Blue whale", "Great white shark", "Orca", "Giant squid"],
+    "correctAnswer": "Blue whale",
+    "explanation": "The blue whale is the largest animal on Earth.",
+    "tags": ["marine", "ocean"]
+  }
+]
