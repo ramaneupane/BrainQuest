@@ -3,20 +3,20 @@ const searchInputEl = document.getElementById('searchInput');
 const difficultyFilterEl = document.getElementById('difficultyFilter');
 
 const categories = [
-  { name: 'General Knowledge', difficulty: 'Mixed' },
-  { name: 'Science', difficulty: 'Easy' },
-  { name: 'Mathematics', difficulty: 'Medium' },
-  { name: 'English', difficulty: 'Mixed' },
-  { name: 'Computer Science', difficulty: 'Mixed' },
-  { name: 'Food & Nutrition', difficulty: 'Mixed' },
-  { name: 'Countries', difficulty: 'Mixed' },
-  { name: 'Animals', difficulty: 'Mixed' },
-  { name: 'Mythology', difficulty: 'Mixed' },
-  { name: 'Environment', difficulty: 'Mixed' },
-  { name: 'Geography', difficulty: 'Easy' },
-  { name: 'History', difficulty: 'Medium' },
-  { name: 'Sports', difficulty: 'Easy' },
-  { name: 'Entertainment', difficulty: 'Easy' }
+  { name: 'General Knowledge', difficulty: 'Mixed', icon: '🧠' },
+  { name: 'Science', difficulty: 'Easy', icon: '🔬' },
+  { name: 'Mathematics', difficulty: 'Medium', icon: '➗' },
+  { name: 'English', difficulty: 'Mixed', icon: '📚' },
+  { name: 'Computer Science', difficulty: 'Mixed', icon: '💻' },
+  { name: 'Food & Nutrition', difficulty: 'Mixed', icon: '🍎' },
+  { name: 'Countries', difficulty: 'Mixed', icon: '🌍' },
+  { name: 'Animals', difficulty: 'Mixed', icon: '🐾' },
+  { name: 'Mythology', difficulty: 'Mixed', icon: '🧚' },
+  { name: 'Environment', difficulty: 'Mixed', icon: '🌿' },
+  { name: 'Geography', difficulty: 'Easy', icon: '🗺️' },
+  { name: 'History', difficulty: 'Medium', icon: '🏺' },
+  { name: 'Sports', difficulty: 'Easy', icon: '🏅' },
+  { name: 'Entertainment', difficulty: 'Easy', icon: '🎬' }
 ];
 
 function renderCategories() {
@@ -30,6 +30,7 @@ function renderCategories() {
 
   categoryGridEl.innerHTML = filtered.map((category) => `
     <a class="category-card" href="quiz.html?category=${encodeURIComponent(category.name)}&difficulty=Mixed&timer=false">
+      <span class="category-icon">${category.icon}</span>
       <h3>${category.name}</h3>
       <p>${category.difficulty} difficulty</p>
     </a>
