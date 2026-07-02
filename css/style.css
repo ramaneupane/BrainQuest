@@ -30,9 +30,9 @@ body.dark {
 body {
   margin: 0;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  background: radial-gradient(circle at top left, #e9efff 0%, transparent 35%),
-    radial-gradient(circle at top right, #dbeafe 0%, transparent 30%),
-    linear-gradient(135deg, #eef2ff 0%, #dbeafe 40%, #f8fbff 100%);
+  background: radial-gradient(circle at top left, #deebff 0%, transparent 38%),
+    radial-gradient(circle at top right, #dbeafe 0%, transparent 32%),
+    linear-gradient(135deg, #eef4ff 0%, #dbeafe 40%, #f0f7ff 100%);
   color: var(--text);
   min-height: 100vh;
   position: relative;
@@ -43,9 +43,9 @@ body::before {
   position: fixed;
   inset: 0;
   background-image:
-    radial-gradient(circle at 10% 10%, rgba(255, 207, 178, 0.35), transparent 16%),
-    radial-gradient(circle at 85% 15%, rgba(206, 146, 255, 0.25), transparent 20%),
-    radial-gradient(circle at 50% 85%, rgba(109, 211, 255, 0.24), transparent 20%);
+    radial-gradient(circle at 12% 12%, rgba(129, 140, 248, 0.28), transparent 16%),
+    radial-gradient(circle at 82% 18%, rgba(149, 185, 255, 0.22), transparent 22%),
+    radial-gradient(circle at 48% 78%, rgba(96, 165, 250, 0.24), transparent 18%);
   pointer-events: none;
   z-index: -1;
 }
